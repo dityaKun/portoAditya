@@ -69,7 +69,7 @@ export default function About() {
             <div className="flex flex-col gap-4 md:gap-3">
               <AnimateHeading title="Design Tools" delay={1.6} />
               <AnimateBody
-                text="masih belum diisi"
+                text="adobe phtoshop,adobe illustrator,figma,canva"
                 delay={2}
                 className="text-sm"
               />
